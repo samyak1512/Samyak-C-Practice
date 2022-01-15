@@ -12,5 +12,5 @@ int main(){
 	    p=pow(2,a);
 	    a++;
 	}
-	cout<<a-1;
+	cout<<a-1z;
 }
